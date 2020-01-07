@@ -10,6 +10,8 @@ Welcome to my updated Portfolio Page
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Bootstrap](https://getbootstrap.com/)
+* [Fontawesome](https://fontawesome.com/v4.7.0/)
+* [GoogleFonts](https://fonts.google.com/)
 
 ## Deployed Link
 
