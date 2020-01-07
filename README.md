@@ -2,7 +2,7 @@
 
 Welcome to my updated Portfolio Page
 
-![Demo Picture](assets/examplePic.png)
+![Demo Picture](assets/examplePic.PNG)
 
 ## Getting Started
 
